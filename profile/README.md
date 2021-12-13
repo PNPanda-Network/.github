@@ -1,11 +1,16 @@
-## Hi there 👋
+## Willkommen
+
+Willkommen im im Git Repository vom Panda-Network.
+<br><br><br>
+## Nützliches
+
+- Webseite: [Panda-Network.de](https://panda-network.de)
+- Documation: [docs.panda-network.de](https://docs.panda-network.de/)
+- Support [Discord-Server](https://discord.gg/z8ScRvf)
+- Impressum [Impressum](https://panda-network.de/impressum)
+- Datenschutz [Datenschutz](https://panda-network.de/datenschutz)
 
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
